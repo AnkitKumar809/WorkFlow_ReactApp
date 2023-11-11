@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bd-navbar {
+    min-height: 4rem;
+    background-color: #7a018c;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, .05), inset 0 -1px 0 rgba(0, 0, 0, .1);
+}
+
+.bt {
+    border: 0 solid;
+    border-width: 0px;
+    border-radius: 5px;
+}
+
+.custom-search {
+    border-radius: 20px;
+    outline-style: solid;
+    width: 500px;
+    height: 40px;
+}
+
+.filter-button {
+    margin-left: 350px;
+    font-size: 15px;
+    height: 40px;
+}
+
+
+.card-item {
+    border-style: solid;
+    background-color: white;
+    border-radius: 10px;
+    border-color: rgb(126, 119, 119);
+    padding: 16px;
+    margin-bottom: 15px;
+}
+
+.bod {
+    
+    width: 280px;
+    height: 50px;
+}
+
+p {
+    font-size: 20px;
+    font-weight: 20px;
+    
+}
+
+.ion {
+    margin-left: 100px;
+}
+
+.custom-container {
+    position: relative;
+}
+
+.delete-container {
+    position: absolute;
+    top: 0;
+    right: 0;
+    cursor: pointer;
+    display: none;
+}
+
+.custom-container:hover .delete-container {
+    display: flex;
+}
+
+.delete-icon {
+    background-color: red !important;
+    border-radius: 50% !important;
+    padding: 5px !important;
+}
+.marg{
+    margin-right: 50px;
+}
+.crlef{
+    margin-left: 900px !important;
+}
+.mlicon{
+    margin-right: 100px ;
+}
+.wtitle{
+    border: 2px solid rgb(163, 157, 157);
+    border-radius: 4px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.btnn {
+    border-radius: 5px;
+    height: 50px;
+    width: 138px;
+    color: white;
+    text-align: center;
+}
+
+  

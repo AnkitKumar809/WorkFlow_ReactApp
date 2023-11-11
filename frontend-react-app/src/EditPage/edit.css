@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.navbar {
+    height: 80px;
+}
+
+
+
+
+.bd-navbar {
+    font-size: 30px;
+    min-height: 4rem;
+    background-color: #7a018c;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, .05), inset 0 -1px 0 rgba(0, 0, 0, .1);
+    width: 100%;
+}
+
+.bt {
+    border: 0 solid;
+    border-width: 0px;
+    border-radius: 5px;
+}
+
+.custom-search {
+    outline-style: solid;
+    margin-left: 10px;
+    width: 300px;
+    height: 50px;
+}
+
+.filter-button {
+    margin-left: 350px;
+    font-size: 15px;
+    height: 40px;
+}
+
+
+.card-item {
+    border-style: solid;
+    background-color: white;
+    border-radius: 2px;
+    border-color: rgb(204, 200, 200);
+    padding: 16px;
+    margin-bottom: 15px;
+}
+
+.bod {
+    width: 250px;
+    height: 40px;
+    border-radius: 5px;
+}
+
+p {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.ion {
+    margin-left: 100px;
+}
+
+.custom-container {
+    position: relative;
+  
+}
+
+.delete-container {
+    position: absolute;
+    top: 0;
+    right: 0;
+    cursor: pointer;
+  
+}
+
+
+
+.delete-icon {
+    border-radius: 50%;
+    padding: 50px;
+}
+
+.btnn {
+    border-radius: 5px;
+    height: 50px;
+    width: 138px;
+    color: white;
+    text-align: center;
+}
+
+.mrg{
+    margin-right: 15px;
+}
